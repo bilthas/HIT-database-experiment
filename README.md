@@ -8,4 +8,4 @@
 5.事务管理，触发器等  
   
 ER图  
-https://github.com/1170300305/HIT-database-experiment1/blob/master/ER.png
+![image](https://github.com/1170300305/HIT-database-experiment1/blob/master/ER.png)
