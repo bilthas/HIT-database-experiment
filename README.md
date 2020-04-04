@@ -5,4 +5,7 @@
 2.完整性约束  
 3.视图，索引  
 4.插入，删除，连接/嵌套/分组查询  
-5.事务管理，触发器等
+5.事务管理，触发器等  
+  
+ER图  
+https://github.com/1170300305/HIT-database-experiment1/blob/master/ER.png
